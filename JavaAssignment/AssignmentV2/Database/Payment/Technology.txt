@@ -1,0 +1,3 @@
+Minato Yukina,Quantum Computing in 2025,Technology,2025-05-15,9.00PM,Prof Tralalelo,RM5.00
+Minato Yukina,Quantum Computing in 2025,Technology,2025-05-15,9.00PM,Prof Tralalelo,RM5.00
+Muhammad Abu,Quantum Computing in 2025,Technology,2025-05-15,9.00PM,Prof Tralalelo,RM5.00
